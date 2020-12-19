@@ -1,4 +1,4 @@
-# Olá, este repositório é referente ao projeto
+# Olá, este repositório é referente ao projeto:
 
 ## “Recriando a página inicial do Instagram” 
 
@@ -15,7 +15,7 @@
 
 ### Interface:
 
-![](img\Interface-print.png)
+![Interface](https://github.com/MatheusHBMelo/Interface-Instagram-Login/blob/master/img/Interface-print.png)
 
 
 
